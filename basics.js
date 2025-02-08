@@ -9,7 +9,6 @@
 const PI = 3.14;
 
 console.log((PI));
-//let
 
 let numberone = 3;
 let numbertwo = 5;
