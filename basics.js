@@ -2,7 +2,6 @@
 /**
  * 
  */
-
 //variables
 //var 
 //const
@@ -22,7 +21,6 @@ function addNumbers(){
 
 console.log(numberone);
 
-
 //int
 console.log(numberone - numbertwo);
 console.log(numberthree + numbertwo);
@@ -31,10 +29,8 @@ let name = "Teopista";
 let firstName = 'Tetricia';
 let lastName = 'Gl';
 
-
 let welcome = `Welcome back ${firstName}`;
 console.log(welcome);
-
 
 console.log("welcome back" + "" + "", + firstName);
 
